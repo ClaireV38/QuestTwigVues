@@ -1,0 +1,16 @@
+{
+    "name": "claire/quest-twig-vues",
+    "description": "Projet quete twig",
+    "authors": [
+        {
+            "name": "ClaireV38",
+            "email": "claireverdier00@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
